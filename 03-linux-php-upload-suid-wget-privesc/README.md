@@ -2,7 +2,7 @@
 # Unauthenticated PHP File Upload to Remote Code Execution and Root Privilege Escalation via SUID `wget`
 
 **Category:** Web Application Security / Linux Privilege Escalation  
-**Environment:** Authorized, isolated practical-exam virtual machine  
+**Environment:** Authorized virtual machine  
 **Target OS:** Linux (Ubuntu-based services identified during enumeration)  
 **Assessment status:** Completed — remote command execution and root access demonstrated
 
