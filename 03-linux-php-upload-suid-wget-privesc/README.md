@@ -236,7 +236,7 @@ A local Python HTTP server was started from the directory containing the modifie
 **Command used:**
 
 ```bash
-python -m http.server 80
+python3 -m http.server 80
 ```
 
 **Evidence — Local HTTP server**
